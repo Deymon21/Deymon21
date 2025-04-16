@@ -114,7 +114,7 @@
 ## 🌐 Contacto y redes
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/adrian-sanchez-pereda](https://www.linkedin.com/in/adri%C3%A1n-s%C3%A1nchez-pereda-950592302/)">
+  <a href="https://www.linkedin.com/in/adrian-sanchez-pereda">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adrianpereda@email.com">
