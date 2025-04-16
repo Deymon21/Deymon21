@@ -40,31 +40,4 @@ Un proyecto que utiliza tecnologías de frontend y backend para ofrecer solucion
 8. **[PostgreSQL](https://www.postgresql.org/docs/)**: *Documentación oficial de PostgreSQL (PL/pgSQL)*  
 9. **[SQLTutorial.org](https://www.sqltutorial.org/)**: *Guía práctica de SQL*
 
----
-
-## 💡 **¿Cómo Contribuir?**
-
-1. **Haz un Fork** de este repositorio.
-2. **Crea una rama** (`git checkout -b feature-nueva`).
-3. **Realiza los cambios** y haz un commit (`git commit -am 'Añadir nueva funcionalidad'`).
-4. **Sube los cambios** (`git push origin feature-nueva`).
-5. **Crea un Pull Request** para que revisemos tus mejoras.
-
----
-
-## 📧 **Contacto**
-
-Si tienes alguna duda o sugerencia, ¡no dudes en contactarnos!
-
-- **Correo electrónico**: ejemplo@dominio.com  
-- **Twitter**: [@usuario](https://twitter.com/usuario)
-
----
-
-## 📑 **Licencia**
-
-Este proyecto está bajo la **Licencia XYZ**. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
 ¡Gracias por tu interés en este proyecto! 🚀✨
