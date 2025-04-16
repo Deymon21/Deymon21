@@ -1,60 +1,114 @@
 <p align="center"> 
-  <img src="url-de-tu-foto-de-perfil" width="150" alt="Foto de Adrián" style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0 0 15px rgba(0,0,0,0.2);" />
+  <img src="url-de-tu-foto-de-perfil" width="150" alt="Foto de Adrián" style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#e74c3c;">Adrián Sánchez Pereda</span></h1>
+<h1 align="center">👨‍💻 Adrián Sánchez Pereda</h1>
 
 <p align="center">
-  💻 Desarrollador Web Full Stack | Apasionado por el código limpio, la tecnología y crear experiencias digitales inolvidables.  
-  Me encanta combinar diseño y funcionalidad para lograr soluciones web modernas, responsivas y escalables.
+  🚀 Desarrollador Web Full Stack apasionado por la tecnología, la eficiencia y el diseño bien pensado.  
+  Me encanta construir cosas útiles, limpias y que funcionen de verdad. ¿Codeamos juntos? 😎
 </p>
 
 ---
 
-## 🚀 Tecnologías que domino
+## 🧠 Tecnologías y Herramientas
+
+> 🟢 **Avanzado** | 🟡 **Intermedio** | 🔴 **Básico**
+
+---
 
 ### 🎨 Frontend
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML5</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS3</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/> Bootstrap</td>
-  </tr>
-</table>
-
-### 🛠️ Backend
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> PHP</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Java</td>
-  </tr>
-</table>
-
-### 🗃️ Bases de Datos
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/> PostgreSQL</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL</td>
-  </tr>
-</table>
-
-### 🧩 Frameworks
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/> Angular</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40"/> Symfony</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40"/> Ruby</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
+      HTML5<br/>
+      🟢 Avanzado
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
+      CSS3<br/>
+      🟢 Avanzado
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+      JavaScript<br/>
+      🟢 Avanzado
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/><br/>
+      Bootstrap<br/>
+      🟡 Intermedio
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🌐 Redes sociales y contacto
+### 🛠️ Backend
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>
+      PHP<br/>
+      🟡 Intermedio
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>
+      Java<br/>
+      🟡 Intermedio
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🗃️ Bases de Datos
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>
+      PostgreSQL<br/>
+      🟡 Intermedio
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+      MySQL<br/>
+      🟡 Intermedio
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧩 Frameworks
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/><br/>
+      Angular<br/>
+      🔴 Básico
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40"/><br/>
+      Symfony<br/>
+      🔴 Básico
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40"/><br/>
+      Ruby<br/>
+      🔴 Básico
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Contacto y redes
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adrian-sanchez-pereda">
@@ -70,6 +124,6 @@
 
 ---
 
-<p align="center">
-  ✨ <strong>¡Gracias por pasarte por mi perfil!</strong> Si quieres colaborar, crear o simplemente conectar, ¡escríbeme! 🚀
+<p align="center" style="font-size: 1.2em;">
+  ✨ Gracias por visitar mi perfil. ¡Siempre listo para nuevos retos y aventuras tech! 🚀
 </p>
