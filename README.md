@@ -1,22 +1,30 @@
-## Hi there 👋
-# 🌐 **Proyecto de Desarrollo Web**
+# 🌐 **Proyecto de Desarrollo Web**  
+![Foto de perfil](url-de-tu-foto-de-perfil)  
 
-Un proyecto que utiliza tecnologías de frontend y backend para ofrecer soluciones completas de desarrollo web.
+Un proyecto de desarrollo web que combina tecnologías de **frontend** y **backend** para ofrecer una solución completa.
 
 ---
 
 ## 🚀 **Tecnologías Usadas**
 
 ### **Frontend** (Nivel avanzado)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/62/HTML5_logo.svg) ![CSS3](https://upload.wikimedia.org/wikipedia/commons/a/a9/CSS3_logo.svg) ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/d/d9/Bootstrap_logo_2017.svg)
+
 - **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**
 
 ### **Backend** (Nivel intermedio)
+![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_%282013%29.svg)
+
 - **PHP**, **Java**
 
 ### **Bases de Datos** (Nivel intermedio)
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_logo.svg)
+
 - **PostgreSQL**, **SQL**
 
 ### **Frameworks** (Nivel básico)
+![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg) ![Symfony](https://upload.wikimedia.org/wikipedia/commons/3/37/Symfony_mark.svg) ![Ruby](https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg)
+
 - **Angular**, **Symfony**, **Ruby**
 
 ---
@@ -40,4 +48,6 @@ Un proyecto que utiliza tecnologías de frontend y backend para ofrecer solucion
 8. **[PostgreSQL](https://www.postgresql.org/docs/)**: *Documentación oficial de PostgreSQL (PL/pgSQL)*  
 9. **[SQLTutorial.org](https://www.sqltutorial.org/)**: *Guía práctica de SQL*
 
+---
 ¡Gracias por tu interés en este proyecto! 🚀✨
+
