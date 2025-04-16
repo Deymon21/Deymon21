@@ -1,96 +1,55 @@
-<p align="center">
-  <img src="url-de-tu-foto-de-perfil" width="150" alt="Foto de perfil" style="border-radius: 50%;" />
-</p>
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#1abc9c">Juan Pérez</span></h1>
 
-<h1 align="center">🌟 Proyecto de Desarrollo Web</h1>
-
-<p align="center">
-  Este es un proyecto que integra tecnologías de <strong>Frontend</strong> y <strong>Backend</strong> para ofrecer una solución web completa, escalable y eficiente.
-</p>
+<p align="center">💻 Desarrollador Web Full Stack | 🧠 Apasionado por la tecnología | 🚀 En constante aprendizaje</p>
 
 ---
 
-## 🚀 Tecnologías Usadas
+### 🧠 Sobre mí
 
-### 🎨 Frontend (Nivel avanzado)
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/HTML5_logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/CSS3_logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Bootstrap_logo_2017.svg" width="40" />
-</p>
-
-- **HTML5**, **CSS3**, **JavaScript**, **Bootstrap**
+Soy un desarrollador web full stack con +5 años de experiencia construyendo aplicaciones modernas, rápidas y funcionales. Me encanta trabajar con tecnologías como **React**, **Node.js** y **MongoDB**, siempre buscando nuevas formas de mejorar la experiencia del usuario.
 
 ---
 
-### 🛠️ Backend (Nivel intermedio)
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_%282013%29.svg" width="40" />
-</p>
-
-- **PHP**, **Java**
-
----
-
-### 🗃️ Bases de Datos (Nivel intermedio)
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_logo.svg" width="40" />
-</p>
-
-- **PostgreSQL**, **SQL**
-
----
-
-### 🧩 Frameworks (Nivel básico)
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Symfony_mark.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width="40" />
-</p>
-
-- **Angular**, **Symfony**, **Ruby**
-
----
-
-## 📚 Bibliografía y Recursos Utilizados
-
-### 🎨 Frontend (Nivel avanzado)
-
-1. [W3Schools](https://www.w3schools.com/) – Tutoriales de HTML5, XML, XHTML, CSS3 y JavaScript  
-2. [Bootstrap](https://getbootstrap.com/docs/) – Documentación oficial
-
----
-
-### 🛠️ Backend (Nivel intermedio)
-
-3. [PHP.net](https://www.php.net/manual/es/) – Manual oficial de PHP  
-4. [Oracle](https://docs.oracle.com/en/java/) – Documentación oficial de Java SE
-
----
-
-### 🧩 Frameworks (Nivel básico)
-
-5. [Angular](https://angular.io/docs)  
-6. [Symfony](https://symfony.com/doc/current/index.html)  
-7. [Ruby-lang.org](https://www.ruby-lang.org/es/documentation/quickstart/)
-
----
-
-### 🗃️ Bases de Datos (Nivel intermedio)
-
-8. [PostgreSQL](https://www.postgresql.org/docs/) – Documentación oficial  
-9. [SQLTutorial.org](https://www.sqltutorial.org/) – Guía práctica de SQL
-
----
+### 🚀 Tech Stack
 
 <p align="center">
-  ✨ <strong>¡Gracias por tu interés en este proyecto!</strong> 🚀
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
+
+---
+
+### 📌 Proyectos Destacados
+
+- 🔧 [**TaskFlow**](https://github.com/juanperez/taskflow): App de productividad con React, Firebase y drag & drop UX
+- 🌐 [**Mi Portafolio**](https://juanperez.dev): Web personal hecha con Next.js + animaciones con Framer Motion
+- 📊 [**DevDashboard**](https://github.com/juanperez/devdashboard): Dashboard para desarrolladores con API de GitHub y datos en tiempo real
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanperez&layout=compact&theme=radical" width="300" />
+</p>
+
+---
+
+### 📬 ¿Charlamos?
+
+<p align="center">
+  <a href="mailto:juanperez@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/juanperez"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://juanperez.dev"><img src="https://img.shields.io/badge/Web-juanperez.dev-1abc9c?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+</p>
+
 
