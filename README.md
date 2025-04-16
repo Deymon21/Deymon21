@@ -6,8 +6,8 @@
 
 <p align="center">
     🚀Soy un desarrollador web entusiasta, con sólida formación técnica y experiencia práctica en la creación y mantenimiento de aplicaciones. Me especializo en el uso de tecnologías como PL/SQL, HTML5, CSS3,         JavaScript, XML, PHP y Java, destacando por mi capacidad de adaptarme rápidamente a distintos entornos y metodologías de trabajo.
-    
-  Me apasiona aprender nuevas herramientas, optimizar procesos y desarrollar soluciones que aporten valor real. Mi objetivo es contribuir al éxito de los proyectos mediante una combinación equilibrada de habilidades técnicas, visión analítica y enfoque a resultados. 😎
+  
+Me apasiona aprender nuevas herramientas, optimizar procesos y desarrollar soluciones que aporten valor real. Mi objetivo es contribuir al éxito de los proyectos mediante una combinación equilibrada de habilidades técnicas, visión analítica y enfoque a resultados. 😎
 </p>
 
 ---
