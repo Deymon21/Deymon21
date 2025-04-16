@@ -117,10 +117,10 @@
   <a href="https://linkedin.com/in/adrián-sánchez-pereda-950592302">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:adrianpereda@email.com">
+  <a href="mailto:adrianspsi08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/adrianpereda">
+  <a href="https://github.com/Deymon21">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
